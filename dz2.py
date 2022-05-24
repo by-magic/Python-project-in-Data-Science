@@ -56,7 +56,8 @@ def certain_car_brand(W: pd.DataFrame, brand_name: str)->pd.DataFrame:
     
     
 E = certain_car_brand(Full_list,'Audi')
-    
+
+#Не сделан
 def car_order_price(W: pd.DataFrame, dealer_name: str)->pd.DataFrame:
     
     """
